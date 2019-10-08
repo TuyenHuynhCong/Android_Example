@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bigNumber</string>
+    <string name="txtscore">txtScore</string>
+    <string name="_10">10</string>
+    <string name="_5">5</string>
+    <string name="points_0">Points: 0</string>
+    <string name="big_number_game">Big Number Game</string>
+</resources>
